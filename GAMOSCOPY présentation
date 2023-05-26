@@ -1,0 +1,9 @@
+# GAMESCOPY public pour le projet privé nommé : GAMOSCOPY 
+Le projet consiste à analyser la vente de jeux vidéos à travers le monde à partir de données existantes obtenues via le web scraping ou encore le data mining. 
+Les orientations porteront sur l’aspect économique avec un volet prédictif (et pour une évolution future sur :un aspect socio-culturel et un aspect sociétal).
+
+Il est composé en 3 parties :
+
+Extract : Collecte des données via Web Scraping notamment
+Transform : Transformation des données avec fusion des sources
+Load : Statistqiues et Visualisations
